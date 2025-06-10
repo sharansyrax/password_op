@@ -1,12 +1,23 @@
-# React + Vite
+# 🔐 Password_OP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Password_OP** is a simple, lightweight, and secure **password storing web application** built with modern web tools like **Vite**, **JavaScript**, and **HTML/CSS**. Manage and store your passwords locally with a clean and responsive user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📁 Store and manage website credentials (site, username, password)
+- 🔐 Local storage–based data persistence
+- 👁️ Toggle password visibility
+- 🧹 Delete individual entries
+- 📋 Copy-to-clipboard support
+- ⚡ Built using [Vite](https://vitejs.dev/) for a fast and modern development experience
+- 🎨 Responsive and minimalist UI design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Tooling**: Vite
+- **Linting**: ESLint
